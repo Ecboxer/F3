@@ -1,0 +1,4 @@
+.DS_Store
+.env
+env/
+F3_Dataset/Full\ Clean\ Dataset/F3_Consistency.csv
