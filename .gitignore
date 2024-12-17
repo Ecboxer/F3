@@ -1,0 +1,8 @@
+.DS_Store
+.env
+env/
+F3_Dataset/Full\ Clean\ Dataset/F3_Consistency.csv
+bkp*
+AlignScore
+X-GenPost*
+X_GenPost*

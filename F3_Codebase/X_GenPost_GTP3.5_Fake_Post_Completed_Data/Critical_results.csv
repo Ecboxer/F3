@@ -1,0 +1,4 @@
+uuid,human_written_content,aigenerated_content,model,num_completion_token,num_original_token,num_prompt_token,num_iagenerated_token,original_label,source_type,ai_generated_label,article_type,pre_post_GPT,dataset_source
+df7caf32-e468-4973-8fb3-96ab5dbbbb1f,National Federation of Independent Business,The National Federation of Independent Business caught in scandal involving alien technology.,gpt-3.5-turbo-0125,13,5,132,145,real,AI Machine,fake,news article,pre-GPT,FakeNewsNet
+2febd396-6f37-407a-a963-88da16941124,comments in Fayetteville NC,Fayetteville NC hit by meteor strike,gpt-3.5-turbo-0125,8,4,132,140,real,AI Machine,fake,news article,pre-GPT,FakeNewsNet
+dee047a1-89ed-4eba-bd89-3295d991e1d5,"Romney makes pitch, hoping to close deal : Elections : The Rocky Mountain News",Romney accused of bribery in attempt to influence election outcome: The Rocky Mountain News,gpt-3.5-turbo-0125,16,15,143,159,real,AI Machine,fake,news article,pre-GPT,FakeNewsNet
